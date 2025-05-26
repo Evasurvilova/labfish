@@ -15,4 +15,4 @@ plantUML
 ## Ответ:
 Ссылка на таблицу:
 
-[![UML Диаграмма 3](https://img.shields.io/badge/📐_Посмотреть_UML_диаграмму-9C27B0?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%203%20UML/uml3.png)
+[UML Диаграмма 3](https://github.com/Evasurvilova/labfish/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203%20UML/uml3.png)
