@@ -19,4 +19,4 @@ Visual Studio 2022
 
 Ссылка на ответ:
 
-[![🔒 Модификаторы доступа](https://img.shields.io/badge/🔒_Модификаторы_доступа_в_C%23-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Модификаторы%20доступа%20в%20C%23/Access%20modifiers.cs)
+[[🔒 Модификаторы доступа](https://github.com/Evasurvilova/labfish/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%B2%20C%23/Access%20modifiers.cs)
