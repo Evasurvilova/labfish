@@ -18,7 +18,7 @@
 | Работа | Описание | Ссылка |
 |--------|----------|--------|
 | **Лабораторная 1** | Основы ООП | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0/lb1) |
-| **Лабораторная 2** | Наследование | [![lb2](https://img.shields.io/badge/🧬_Код-4285F4?style=flat-square)](lb2) |
+| **Лабораторная 2** | Наследование | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0/lb2) |
 | **Лабораторная 3** | Полиморфизм | [![lb3](https://img.shields.io/badge/🔄_Код-4285F4?style=flat-square)](lb3) |
 | **Лабораторная 4** | Стандартные диалоги | [![lb4](https://img.shields.io/badge/💬_Код-4285F4?style=flat-square)](lb4/TestStandartDialog) |
 | **Лабораторная 6** | Печать документов | [![lb6](https://img.shields.io/badge/🖨️_Код-4285F4?style=flat-square)](lb6/WinPrint) |
