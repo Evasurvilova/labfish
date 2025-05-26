@@ -22,5 +22,5 @@
 | **Лабораторная 3** | Полиморфизм | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0) |
 | **Лабораторная 4** | Стандартные диалоги | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0/lb4) |
 | **Лабораторная 6** | Печать документов | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0/lb6) |
-| **Лабораторная 7** | Работа с файлами | [![lb7](https://img.shields.io/badge/📂_Код-4285F4?style=flat-square)](lb7) |
+| **Лабораторная 7** | Работа с файлами | (https://github.com/Evasurvilova/labfish/tree/main/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0/lb7) |
 | **Лабораторная 8** | Локализация | [![lb8](https://img.shields.io/badge/🌐_Код-4285F4?style=flat-square)](lb8/WinLanguage) |
