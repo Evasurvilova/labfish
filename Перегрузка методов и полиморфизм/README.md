@@ -34,4 +34,4 @@ Microsoft Word 2016
 
 Ссылка на проект с кодом, использующий полиморфизм:
 
-[![Полиморфизм](https://img.shields.io/badge/🔄_Полиморфизм-9C27B0?style=for-the-badge&logo=docsdotrs&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Перегрузка%20методов%20и%20полиморфизм/Рамазанова_Д_Д_ИПО_31_22_Метод_полиморфизма%20(2).docx)
+[[Полиморфизм](https://github.com/Evasurvilova/labfish/blob/main/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%B8%20%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC/%D0%A1%D1%83%D1%80%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%95%D0%B2%D0%B0_%D0%98%D0%9F%D0%9E_31_22_%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC%D0%B0%20(2).docx)
