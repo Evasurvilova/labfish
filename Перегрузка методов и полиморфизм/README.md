@@ -1,13 +1,13 @@
 # Практическая работа  «Перегрузка методов и полифорфизм».
 ## Выполнила: 
-Рамазанова Диляра ИПО-31.22
+Сурвилова Ева ИПО-31.22
 ## Инструменты:
 Visual studio 2022
 
 Microsoft Word 2016
 
 ## Главная:
-[![📚 Домашние задания ИПО-31-22](https://img.shields.io/badge/📚_Главная-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/README.md)
+[![🐠 LabFish - Документация](https://img.shields.io/badge/🐠_LabFish_-_Документация-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Evasurvilova/labfish/blob/main/README.md)
 
 # Задание:
 
