@@ -53,7 +53,7 @@ Visual Studio 2022
 
 Чтобы запретить наследование от класса, нужно пометить его ключевым словом sealed
 ## Ссылка на ответ:
-[![ans3.cs](https://img.shields.io/badge/📌_Ответ-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans3.cs)
+[![Решение](https://img.shields.io/badge/✅_StringUtils_решение-4CAF50?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans3.cs)
 ## Вопрос 4
 Что выведет на консоль следующая программа и почему?
 
@@ -61,8 +61,7 @@ Visual Studio 2022
 Ссылка на программу:
 
 
-[![ex4.cs](https://img.shields.io/badge/📝_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex4.cs)  
-
+[![Задание](https://img.shields.io/badge/📝_StringUtils_задание-4285F4?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex4.cs)
 
 ## Ответ:
 Программа выведет:
@@ -77,7 +76,7 @@ Visual Studio 2022
 Ссылка на программу:
 
 
-[![ex5.cs](https://img.shields.io/badge/⭕_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex5.cs)  
+[![Задание](https://img.shields.io/badge/📝_Circle_задание-4285F4?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex5.cs)
 
 ## Ответ:
 Программа выведет:
@@ -103,7 +102,8 @@ Truck with capacity 1.1*
 Ссылка на программу:
 
 
-[![ex6.cs](https://img.shields.io/badge/✨_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex6.cs)
+[![Задание](https://img.shields.io/badge/📝_Доп._задание-4285F4?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex6.cs)
+
 ## Ответ:
 Программа выведет:
 
