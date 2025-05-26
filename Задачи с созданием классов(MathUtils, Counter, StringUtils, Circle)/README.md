@@ -15,8 +15,7 @@ Visual Studio 2022
 
 Ссылка на программу:
 
-[![ex1.cs](https://img.shields.io/badge/🔢_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex1.cs)  
-
+[![Задание](https://img.shields.io/badge/📝_MathUtils_задание-4285F4?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex1.cs)
 ## Ответ:
 
 Программа не компилируется из-за несоответствия модификаторов доступа классов. Класс Employee имеет модификатор public, а его базовый класс Person - internal. Это нарушает правило, что производный класс не может быть более доступным, чем его базовый класс.
@@ -24,15 +23,14 @@ Visual Studio 2022
 
 # Ссылка на исправление:
 
-[![ans1.cs](https://img.shields.io/badge/📌_Ответ-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans1.cs)  
-
+[![Решение](https://img.shields.io/badge/✅_MathUtils_решение-4CAF50?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans1.cs)
 ## Вопрос 2
 Даны следующие классы:
 
 
 Ссылка на программу:
 
-[![🧮 Задача: Counter класс](https://img.shields.io/badge/🧮_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex2.cs)
+[![Задание](https://img.shields.io/badge/📝_Counter_задание-4285F4?style=flat-square)](https://github.com/Evasurvilova/labfish/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex2.cs)
 
 
 Какие конструкторы и в каком порядке в данном случае будет выполняться?
